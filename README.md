@@ -1,16 +1,12 @@
-# alishertest
+# Premium Pay
 
-A new Flutter project.
+# Dastur sahifalari rasmlarda: 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/SR1vG4K"><img src="https://i.ibb.co/Bq7sF5g/Screenshot-2024-06-28-21-33-06-386-com-khurshid28-premium-pay-out.jpg" alt="Screenshot-2024-06-28-21-33-06-386-com-khurshid28-premium-pay-out" border="0" width=100></a>
+<a href="https://ibb.co/qYjn7vD"><img src="https://i.ibb.co/23h6WTF/Screenshot-2024-06-28-21-33-11-596-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-11-596-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/rvp91Nq"><img src="https://i.ibb.co/kMDZWvz/Screenshot-2024-06-28-21-33-19-105-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-19-105-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/Kqd1VRb"><img src="https://i.ibb.co/YkmrfYP/Screenshot-2024-06-28-21-33-22-963-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-22-963-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/RPwZYkF"><img src="https://i.ibb.co/TR3pYxf/Screenshot-2024-06-28-21-33-29-373-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-29-373-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/hRyGn8r"><img src="https://i.ibb.co/1fLCp2B/Screenshot-2024-06-28-21-33-35-317-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-35-317-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/cYw81zb"><img src="https://i.ibb.co/6X8tm6v/Screenshot-2024-06-28-21-33-40-951-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-40-951-com-example-ui-premium-pay" border="0" width=100></a>
+<a href="https://ibb.co/qY7f3zr"><img src="https://i.ibb.co/LdYWXMZ/Screenshot-2024-06-28-21-33-51-746-com-example-ui-premium-pay.jpg" alt="Screenshot-2024-06-28-21-33-51-746-com-example-ui-premium-pay" border="0" width=100></a>
